@@ -2,7 +2,6 @@
 I am currintly working on
    * ~~[gamedev](https://github.com/greenstar-productions/divel)~~
    * ~~a [discord bot](https://github.com/haovipaws/mathbot)~~
-   * ~~making a [minecraft name sniper](https://github.com/haovipaws/namesniper.rs)~~
    * nothing
 <!--
 **haovipaws/haovipaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
