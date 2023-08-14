@@ -1,8 +1,6 @@
 ### Hi there ###
-I am currintly working on
-   * ~~[gamedev](https://github.com/greenstar-productions/divel)~~
-   * ~~a [discord bot](https://github.com/haovipaws/mathbot)~~
-   * nothing
+I am currently working on
+   * [A block decay plugin](https://github.com/haovipaws/BlockDecay) 
 <!--
 **haovipaws/haovipaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
